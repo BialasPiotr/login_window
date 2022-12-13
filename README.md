@@ -1,4 +1,4 @@
 # login_window
 admin 
-admin123
+admin
 user and password
