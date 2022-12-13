@@ -1,3 +1,3 @@
-M different versions of the login window.
+My different versions of the login window.
 User: admin 
 Password: admin
