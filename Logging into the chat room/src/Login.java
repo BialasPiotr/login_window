@@ -46,7 +46,7 @@ public class Login{
                 String username = userText.getText();
                 String password = String.valueOf(passwordText.getPassword());
 
-                if(username.equals("test") && password.equals("test")){
+                if(username.equals("admin") && password.equals("admin")){
                     ChatWindow window = new ChatWindow();
                     window.setVisible(true);
                 }
