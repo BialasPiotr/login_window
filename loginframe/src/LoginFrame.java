@@ -60,7 +60,6 @@ public class LoginFrame extends JFrame {
                             "Login",
                             JOptionPane.ERROR_MESSAGE);
                 }
-
             }
         });
         add(loginButton, getConstraints(1, 3, 1, 1, GridBagConstraints.CENTER));
