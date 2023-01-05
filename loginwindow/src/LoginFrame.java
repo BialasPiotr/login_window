@@ -44,6 +44,7 @@ public class LoginFrame extends JFrame implements ActionListener {
         if (username.equals("admin") && password.equals("admin123")) {
             System.out.println("You have successfully logged in!");
         } else {
+            
             System.out.println("\n" +
                     "Incorrect data Check again.");
         }
