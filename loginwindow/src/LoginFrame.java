@@ -18,7 +18,6 @@ public class LoginFrame extends JFrame implements ActionListener {
         super("Logowanie");
 
         setLayout(new FlowLayout());
-
         usernameLabel = new JLabel("User name  : ");
         passwordLabel = new JLabel("Password: ");
         usernameField = new JTextField(20);
